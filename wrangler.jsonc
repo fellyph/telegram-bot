@@ -31,7 +31,7 @@
 		{
 			"binding": "DB",
 			"database_name": "bot-database",
-			"database_id": "PUT-YOUR-D1-UUID-HERE"
+			"database_id": "2050ee13-ac3a-4604-b70c-6026e96f9f36"
 		}
 	],
 	/**
